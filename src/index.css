@@ -1,2 +1,23 @@
 @plugin "daisyui";
 @import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+:root {
+  color-scheme: light;
+  color: black;
+  background-color: #ffffff;
+}
+.t2 {
+  color: #13131390;
+}
+.offWhite {
+  background-color: #13131310;
+}
+.TxtGreen{
+  color: #23BE0A;
+}
+.playfair {
+  font-family: "Playfair Display", serif;
+}
+.workSans {
+  font-family: "Work Sans", sans-serif;
+}
